@@ -5,4 +5,5 @@ Cette interface demande l’installation d’une application sur l’unité du c
 L’interface proposée fonctionne que sur ANDROID.
 
 Détails 1 de 2: https://espacerm.com/webgen/linterface-bluetooth-du-declencheur-de-relais/
+
 Détails 2 de 2: https://espacerm.com/webgen/linterface-bluetooth-du-declencheur-de-relais-2-de-2/
